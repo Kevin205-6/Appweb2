@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'xd'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D51FBC94964C48C7A764C82FE03A530D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9213854C9D91488C948D5A87251DD032 }}
